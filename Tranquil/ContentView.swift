@@ -16,6 +16,7 @@ struct ContentView: View {
     
     @Environment(\.openImmersiveSpace) var openImmersiveSpace
     @Environment(\.dismissImmersiveSpace) var dismissImmersiveSpace
+    
     var body: some View {
         TabView {
             MainView()

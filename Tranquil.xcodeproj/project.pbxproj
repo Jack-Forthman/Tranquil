@@ -117,6 +117,7 @@
 		28C1BB382AAD485A00953C4C /* Tranquil */ = {
 			isa = PBXGroup;
 			children = (
+				28D7F8682AAE72E9008F11B1 /* Study Sets */,
 				28C1BB3D2AAD485A00953C4C /* TranquilApp.swift */,
 				28D7F8682AAE72E9008F11B1 /* Study Sets */,
 				289107A62AC9DB1100BD449B /* MainView.swift */,
@@ -129,6 +130,7 @@
 				281979FC2AC3C4E800D0ACA1 /* ViewModel.swift */,
 				281979F72AC3C3B900D0ACA1 /* Outer Space Environment */,
 				28D7F8692AAE72FB008F11B1 /* Profile */,
+				28C1BB412AAD485A00953C4C /* ImmersiveView.swift */,
 				28C1BB432AAD485B00953C4C /* Assets.xcassets */,
 				28C1BB482AAD485B00953C4C /* Info.plist */,
 				28C1BB5F2AAE615B00953C4C /* Welcome */,
